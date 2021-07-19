@@ -20,4 +20,5 @@ sudo yum install gitlab-ce
 # sudo firewall-cmd --reload
 
 # Step 4: Access GitLab Web Console
+# sudo vi /etc/gitlab/initial_root_password
 # curl http://192.168.30.134
